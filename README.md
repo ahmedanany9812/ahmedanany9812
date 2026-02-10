@@ -1,45 +1,146 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Ahmed+Anany;Full+Stack+Engineer;Legacy+Migration+Specialist;.NET+Core+%26+NestJS+Architect" alt="Typing SVG" />
-</div>
+# Ahmed Anany
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+**Full Stack Developer** | Cairo, Egypt  
+Specializing in Legacy System Modernization & Scalable Web Applications
 
-<br />
-
-### 👨‍💻 Professional Summary
-
-I am a **Software Engineer** based in **Cairo, Egypt**, focused on high-performance backend architecture and enterprise system modernization. 
-
-My core value proposition is **technical continuity**: I specialize in taking legacy codebases (ASP.NET MVC, Angular 11) and refactoring them into modern, scalable standards (.NET Core, NestJS, Angular 20) while maintaining system stability and data integrity.
-
-* 🏗️ **Core Focus:** Building scalable APIs with **NestJS** and **.NET Core**.
-* 🔄 **Specialization:** End-to-end migration of legacy enterprise applications.
-* 📐 **Architecture:** Strong adherence to **SOLID Principles**, **Clean Architecture**, and **Domain-Driven Design (DDD)**.
-* 🔭 **Current Research:** Deep dive into Network Protocols (HTTP/HTTPS) and System Design patterns.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahm--anany-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/ahm-anany)
+[![Email](https://img.shields.io/badge/Email-ahmedenany9812%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmedenany9812@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ahmedanany9812-181717?style=flat&logo=github)](https://github.com/ahmedanany9812)
 
 ---
 
-### 🛠️ Technical Expertise
+## About Me
 
-| **Backend Engineering** | **Frontend Modernization** | **Data & Infrastructure** |
-|:---:|:---:|:---:|
-| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white) |
-| ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | ![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) | ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black) | ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white) |
+Full Stack Developer with **3+ years** of experience building enterprise-grade web applications across hospitality and recruitment sectors. I bridge the gap between legacy systems and modern architectures, delivering scalable solutions while maintaining business continuity.
+
+**Current Role:** Software Developer at CIHOST (July 2025 - Present)  
+**Focus Areas:** API Integration, System Modernization, Tax Compliance Automation
+
+### What I Do Best
+
+- 🏗️ **Legacy Modernization** — Refactoring ASP.NET MVC applications to .NET Core while maintaining zero downtime
+- 🔌 **Enterprise Integration** — Building REST API integrations with third-party systems (Protel Air, Tax Authority portals)
+- ⚡ **Performance Optimization** — Reduced application crash rates by 20% through strategic refactoring
+- 🎯 **Full-Cycle Development** — From requirements gathering to deployment, training, and support (95%+ client satisfaction)
 
 ---
 
-### 📈 Development Activity
+## Tech Stack
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular_11--20-DD0031?style=flat&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+### Backend
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+
+### Databases & Tools
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## Featured Projects
+
+### 🎫 [Flysmartdeals](https://github.com/ahmedanany9812) — Flight Booking Platform
+**Go Live:** February 2025 | **Role:** Core Developer
+
+A real-time flight booking platform with third-party API integration for live flight data.
+
+- Built responsive booking interface with **Next.js** and **TypeScript**
+- Integrated REST APIs for real-time flight availability and pricing
+- Implemented server-side rendering for improved SEO and load performance
+- **Stack:** Next.js, GSAP, Prisma, MongoDB
+
+### 💼 [WazifaMe](https://github.com/ahmedanany9812) — Job Platform
+**Go Live:** June 2025 | **Role:** Full Stack Developer
+
+A scalable job search and recruitment platform connecting employers and job seekers.
+
+- Developed end-to-end job posting and application management system
+- Built RESTful backend with **NestJS** and **Prisma ORM**
+- Implemented real-time notifications using Socket.io
+- **Stack:** Next.js, NestJS, TypeScript, MongoDB, Prisma
+
+### 🐱 [PurrGatto](https://github.com/ahmedanany9812) — Social Q&A Platform
+**Go Live:** November 2024 | **Role:** Solo Developer
+
+An interactive anonymous messaging platform with custom theming.
+
+- Built full-stack application with **Next.js** and **Express.js**
+- Implemented real-time messaging and notification system
+- Designed responsive UI with mobile-first approach
+- **Stack:** Next.js, Node.js, Express.js, MongoDB
+
+---
+
+## Professional Experience
+
+### 💼 Software Developer — CIHOST
+**July 2025 - Present** | Full-time
+
+- Maintaining high-traffic hotel management applications built with **ASP.NET MVC**
+- Upgraded Angular components from **v11 to v20**, improving performance and maintainability
+- Integrated **Protel Air REST APIs** to automate invoice generation and e-invoice submission to Egypt's Tax Authority
+- Refactoring legacy codebases to **.NET Core** for future scalability
+- Achieved **95%+ client satisfaction** through comprehensive support and training
+
+### 🚀 Next.js Developer — Infotech-Global
+**December 2024 - July 2025** | Full-time
+
+- Reduced application crash rates by **20%** through advanced state management optimization
+- Developed major features for **Flysmartdeals** flight booking platform
+- Built reusable UI component library with **SSR** implementation
+- Ensured cross-device accessibility for both WazifaMe and Flysmartdeals platforms
+
+---
+
+## Education
+
+**Bachelor of Science in Data and Computer Science**  
+Faculty of Sciences, Tanta University — *2024*
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedanany9812&show_icons=true&theme=gotham&hide_border=true&count_private=true&include_all_commits=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedanany9812&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedanany9812&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedanany9812&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedanany9812&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9)
+
+</div>
+
+---
+
+## Let's Connect
+
+I'm always interested in discussing:
+- System architecture and migration strategies
+- API design and integration patterns
+- Frontend performance optimization
+- Open source collaboration opportunities
+
+📧 **Email:** ahmedenany9812@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/ahm-anany](https://linkedin.com/in/ahm-anany)  
+📱 **Phone:** (+20) 01223502118
+
+---
+
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/ahmedanany9812">ahmedanany9812</a></i>
 </div>
