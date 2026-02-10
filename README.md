@@ -51,40 +51,6 @@ Full Stack Developer with **3+ years** of experience building enterprise-grade w
 
 ---
 
-## Featured Projects
-
-### 🎫 [Flysmartdeals](https://github.com/ahmedanany9812) — Flight Booking Platform
-**Go Live:** February 2025 | **Role:** Core Developer
-
-A real-time flight booking platform with third-party API integration for live flight data.
-
-- Built responsive booking interface with **Next.js** and **TypeScript**
-- Integrated REST APIs for real-time flight availability and pricing
-- Implemented server-side rendering for improved SEO and load performance
-- **Stack:** Next.js, GSAP, Prisma, MongoDB
-
-### 💼 [WazifaMe](https://github.com/ahmedanany9812) — Job Platform
-**Go Live:** June 2025 | **Role:** Full Stack Developer
-
-A scalable job search and recruitment platform connecting employers and job seekers.
-
-- Developed end-to-end job posting and application management system
-- Built RESTful backend with **NestJS** and **Prisma ORM**
-- Implemented real-time notifications using Socket.io
-- **Stack:** Next.js, NestJS, TypeScript, MongoDB, Prisma
-
-### 🐱 [PurrGatto](https://github.com/ahmedanany9812) — Social Q&A Platform
-**Go Live:** November 2024 | **Role:** Solo Developer
-
-An interactive anonymous messaging platform with custom theming.
-
-- Built full-stack application with **Next.js** and **Express.js**
-- Implemented real-time messaging and notification system
-- Designed responsive UI with mobile-first approach
-- **Stack:** Next.js, Node.js, Express.js, MongoDB
-
----
-
 ## Professional Experience
 
 ### 💼 Software Developer — CIHOST
