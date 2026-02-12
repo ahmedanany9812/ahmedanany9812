@@ -11,7 +11,7 @@ Specializing in Legacy System Modernization & Scalable Web Applications
 
 ## About Me
 
-Full Stack Developer with **3+ years** of experience building enterprise-grade web applications across hospitality and recruitment sectors. I bridge the gap between legacy systems and modern architectures, delivering scalable solutions while maintaining business continuity.
+Full Stack Developer with **2+ years** of experience building enterprise-grade web applications across hospitality and recruitment sectors. I bridge the gap between legacy systems and modern architectures, delivering scalable solutions while maintaining business continuity.
 
 **Current Role:** Software Developer at CIHOST (July 2025 - Present)  
 **Focus Areas:** API Integration, System Modernization, Tax Compliance Automation
